@@ -51,7 +51,7 @@ export const pages: PageGroup[] = [
 			},
 			{
 				title: "Product Waitlist",
-				href: "/waitlist",
+				href: "/store/waitlist",
 				icon: Hourglass, // or Clock depending on tone
 			},
 		]
